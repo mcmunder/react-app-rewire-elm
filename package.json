@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-elm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use elm in your create-react-app project without ejecting",
   "main": "index.js",
   "scripts": {
